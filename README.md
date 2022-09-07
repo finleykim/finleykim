@@ -16,6 +16,7 @@ I'm currently learning Swift & UIKit & RxSwift & MVVM
    
 ### Links about Finley  
 - [iOS Developer Blog](https://notion.so/d0c01478599b4033b1b98ffa84a57eb4?v=95c9a38f763e495bbf036b5f7f1efab8) 
+- [Portfolio](http://devfinley.dothome.co.kr/)  
 - [Design Portfolio](http://finley.dothome.co.kr/)  
 - [YouTube](https://www.youtube.com/channel/UCKLlXyqQWACNxx7H-sqtcAg)
 - [Resume](http://finley.dothome.co.kr/cv.html)
